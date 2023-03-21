@@ -72,7 +72,7 @@ npm install bootstrap bootstrap-icons
 **4.** Install the `@ng-bootstrap/ng-bootstrap` library.
 
 ```shell
-npm install @ng-bootstrap/ng-bootstrap@next
+npm install @ng-bootstrap/ng-bootstrap
 ```
 
 **5.** Import the `NgbModule` module. Change the `app.module.ts` file and add the lines as below.
